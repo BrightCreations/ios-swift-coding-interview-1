@@ -14,7 +14,7 @@ There are a few tasks in this code challenge, each with a specific focus for you
 
 Please create a new application called "**yourfullname**-coding-challenge-1" replacing the prefix with your fullname please.
 
-### Can you Network?
+### Network
 
 Show us how you build a great networking layer and retrieve data from a third party API.
 
@@ -28,13 +28,13 @@ Store the list of breeds into Core Data.  Use whatever structure makes sense in 
 
 Also, show us how you would set one breed in NSDefaults (whatever breed you prefer).
 
-### Can you animate?
+### View and Animate
 
 Using any of the animations found [here](https://medium.com/@dinolaw/22-best-swift-animation-libraries-in-early-2020-8f76d39e0bcb) or elsehwere for that matter - create a cool bit of animation to show the list of breeds that are retrieved from the API as well as a random image for each breed.
 
 You can use a TableView, CollectionView or any other list view of your choosing.  Show us something you think looks great and has an interesting UX.
 
-### Unit Testing
+### Unit Test
 
 Write at unit test for the networking layer.
 
